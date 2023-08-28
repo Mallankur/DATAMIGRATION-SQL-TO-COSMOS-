@@ -22,8 +22,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\CatcheckData\CatcheckData.csproj" />
-  </ItemGroup>
-
 </Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CATCHEK_API_Gatway.props" />
+</Project>

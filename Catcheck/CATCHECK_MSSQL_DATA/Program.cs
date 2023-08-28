@@ -1,3 +1,6 @@
+using CATCHECK_MSSQL_DATA.Infrastructure.CatcheckInterface;
+using CATCHECK_MSSQL_DATA.Infrastructure.CatcheckServises;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +9,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<ICatCheck_Cal, CATCHECK_SERVISES>();
+builder.Services.AddMvc().AddXmlSerializerFormatters();
 
 var app = builder.Build();
 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vlBqXpEvOXr6bhSEB5Rr8lhFgmhYtXfBdoELJVvuoOA=",
+  "Source": "CATCHECK_MSSQL_DATA",
+  "BasePath": "_content/CATCHECK_MSSQL_DATA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

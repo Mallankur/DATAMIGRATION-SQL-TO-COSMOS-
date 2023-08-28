@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "zBcQP9vMjj7ddfSTOH59LC0WvtzqeofMRM11hn7yg57+0p0xifNmPVXVtZkO9JwDphn45J9o8Ry+Mei3hWkbNQ==",
-  "success": false,
+  "dgSpecHash": "oKcO2ekGNwysKhFoi/rHpHOfcgw1GLzv1h/XihXnwBxjn0lgHAHY74MyjO2b3aaZ7iou/QLM6/zFx09hJLMCgw==",
+  "success": true,
   "projectFilePath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\AccpteceTest\\AccpteceTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ankur\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
@@ -94,15 +94,5 @@
     "C:\\Users\\ankur\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
     "C:\\Users\\ankur\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CatcheckData\\CatcheckData.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CatcheckData\\CatcheckData.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
