@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\MigrateCatCheckDataSQLTOCOSMOS\\MigrateCatCheckDataSQLTOCOSMOS.csproj": {}
+    "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CATCHEK_API_Gatway\\CATCHEK_API_Gatway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\MigrateCatCheckDataSQLTOCOSMOS\\MigrateCatCheckDataSQLTOCOSMOS.csproj": {
+    "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CATCHEK_API_Gatway\\CATCHEK_API_Gatway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\MigrateCatCheckDataSQLTOCOSMOS\\MigrateCatCheckDataSQLTOCOSMOS.csproj",
-        "projectName": "MigrateCatCheckDataSQLTOCOSMOS",
-        "projectPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\MigrateCatCheckDataSQLTOCOSMOS\\MigrateCatCheckDataSQLTOCOSMOS.csproj",
+        "projectUniqueName": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CATCHEK_API_Gatway\\CATCHEK_API_Gatway.csproj",
+        "projectName": "CATCHEK_API_Gatway",
+        "projectPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CATCHEK_API_Gatway\\CATCHEK_API_Gatway.csproj",
         "packagesPath": "C:\\Users\\ankur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\MigrateCatCheckDataSQLTOCOSMOS\\obj\\",
+        "outputPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CATCHEK_API_Gatway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ankur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,26 +40,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Azure.Messaging.ServiceBus": {
-              "target": "Package",
-              "version": "[7.16.1, )"
-            },
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.21.0, )"
-            },
-            "MongoDB.Driver.Core": {
-              "target": "Package",
-              "version": "[2.21.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
-            "Newtonsoft.Json.Bson": {
-              "target": "Package",
-              "version": "[1.0.2, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

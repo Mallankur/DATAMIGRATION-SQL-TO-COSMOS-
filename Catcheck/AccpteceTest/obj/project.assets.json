@@ -5510,7 +5510,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\Catcheck\\CatcheckData\\CatcheckData.csproj",
+      "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CatcheckData\\CatcheckData.csproj",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5523,11 +5523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\Catcheck\\AccpteceTest\\AccpteceTest.csproj",
+      "projectUniqueName": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\AccpteceTest\\AccpteceTest.csproj",
       "projectName": "AccpteceTest",
-      "projectPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\Catcheck\\AccpteceTest\\AccpteceTest.csproj",
+      "projectPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\AccpteceTest\\AccpteceTest.csproj",
       "packagesPath": "C:\\Users\\ankur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\Catcheck\\AccpteceTest\\obj\\",
+      "outputPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\AccpteceTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ankur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5544,8 +5544,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\Catcheck\\CatcheckData\\CatcheckData.csproj": {
-              "projectPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\Catcheck\\CatcheckData\\CatcheckData.csproj"
+            "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CatcheckData\\CatcheckData.csproj": {
+              "projectPath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CatcheckData\\CatcheckData.csproj"
             }
           }
         }
@@ -5605,8 +5605,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\Catcheck\\CatcheckData\\CatcheckData.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\Catcheck\\CatcheckData\\CatcheckData.csproj",
+      "message": "Unable to find project 'C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CatcheckData\\CatcheckData.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CatcheckData\\CatcheckData.csproj",
       "targetGraphs": [
         "net6.0"
       ]

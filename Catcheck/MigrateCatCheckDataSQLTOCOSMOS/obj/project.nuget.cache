@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnsnQRKXlQPIqA/DIj041N+tSsQpGsJfr/2CUna+W7ZpG5jL/ZKl5Z8wDBq6P2gIdUNn1uHzsSeEs4NoAlZYLQ==",
+  "dgSpecHash": "64Qtq05X1SlFbU3Xq0aAFwjDoyw6NRQ8acjbVQ1m5YVrB7HZseQkjGV5Y3aKV1JYuiFvGLEBtnZUA4MmSAQ4eA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\Catcheck\\MigrateCatCheckDataSQLTOCOSMOS\\MigrateCatCheckDataSQLTOCOSMOS.csproj",
+  "projectFilePath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\MigrateCatCheckDataSQLTOCOSMOS\\MigrateCatCheckDataSQLTOCOSMOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ankur\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\ankur\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

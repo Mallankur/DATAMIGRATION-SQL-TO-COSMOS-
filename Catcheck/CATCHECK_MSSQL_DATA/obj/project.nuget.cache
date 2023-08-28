@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "A6HOE67vCgyLxZ1V2ScSQXk6yesuetY8f0e+6pgPNCLqP4JX3XQyYzq96saJCgOOAjY95LHaqcSH1bZGpSy7FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankur\\Desktop\\Frontent\\Ank document\\DATAMIGRATION-SQL-TO-COSMOS-\\Catcheck\\CATCHECK_MSSQL_DATA\\CATCHECK_MSSQL_DATA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ankur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ankur\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ankur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ankur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ankur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
