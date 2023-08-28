@@ -30,11 +30,33 @@ namespace CATCHECK_MSSQL_DATA.Infrastructure.CatcheckServises
             await sender.SendMessageAsync(message);
         }
 
+        public async Task<int?> DeleteCatCheckbyId(int? _id)
+        {
+
+            var res = await _dbC.SqlCatcheck.FindAsync(_id);
+            if (res == null) { return null; }
+
+            _dbC.SqlCatcheck.Remove(res);
+            await _dbC.SaveChangesAsync();
+            return res.Id;
+
+
+        }
+
         public async Task<List<CATCHECK_MODEL>> GetAllCatcheckDataMSSQL()
         {
-           var res =  await _dbC.SqlCatcheck.ToListAsync();
+            var res = await _dbC.SqlCatcheck.ToListAsync();
 
-            return res; 
+            return res;
         }
+
+        public async Task<CATCHECK_MODEL> GetCatCheckDataby_ID(int _id)
+        {
+            var catcheck = await _dbC.SqlCatcheck.FindAsync(_id);
+            return catcheck;
+
+        }
+        
     }
+    
 }

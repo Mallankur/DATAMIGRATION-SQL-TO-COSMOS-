@@ -24,9 +24,10 @@ namespace CATCHECK_MSSQL_DATA.Controllers
 
         // GET api/<CATCHEKSQLController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<CATCHECK_MODEL>GetCatCheckEntity(int id)
         {
-            return "value";
+           var result =  await _cat.GetCatCheckDataby_ID(id);   
+            return result; 
         }
 
         // POST api/<CATCHEKSQLController>
@@ -40,8 +41,10 @@ namespace CATCHECK_MSSQL_DATA.Controllers
 
         // DELETE api/<CATCHEKSQLController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<int?>  DeleteCatCheckEntity(int id)
         {
+           var  entityres = await _cat.DeleteCatCheckbyId(id);
+            return entityres;
         }
     }
 }
