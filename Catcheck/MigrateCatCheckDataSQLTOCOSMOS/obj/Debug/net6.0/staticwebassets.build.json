@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yKhc+8qn28Skc2w9y5CMrzArTd7ckXi9eMVeDGNF3RQ=",
+  "Source": "MigrateCatCheckDataSQLTOCOSMOS",
+  "BasePath": "_content/MigrateCatCheckDataSQLTOCOSMOS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
